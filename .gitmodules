@@ -1,3 +1,9 @@
 [submodule "hw1/News-Headlines-Dataset-For-Sarcasm-Detection"]
 	path = hw1/News-Headlines-Dataset-For-Sarcasm-Detection
 	url = git@github.com:rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection.git
+[submodule "hw1/hw1/sklearn-files/scikit-learn"]
+	path = hw1/hw1/sklearn-files/scikit-learn
+	url = git@github.com:scikit-learn/scikit-learn.git
+[submodule "hw1/sklearn-files/scikit-learn"]
+	path = hw1/sklearn-files/scikit-learn
+	url = git@github.com:scikit-learn/scikit-learn.git
