@@ -1,0 +1,10 @@
+Unable to find The Hobbit as a .txt
+
+01 - The Fellowship Of The Ring.txt, 02 - The Two Towers.txt, and 03 - The Return Of The King.txt:
+https://www.kaggle.com/datasets/ashishsinhaiitr/lord-of-the-rings-text
+
+silmarillion.txt: 
+https://archive.org/stream/TheSilmarillionIllustratedJ.R.R.TolkienTedNasmith/The%20Silmarillion%20%28Illustrated%29%20-%20J.%20R.%20R.%20Tolkien%3B%20Ted%20Nasmith%3B_djvu.txt
+
+lotr_scripts.csv: 
+https://www.kaggle.com/datasets/paultimothymooney/lord-of-the-rings-data?select=lotr_scripts.csv
